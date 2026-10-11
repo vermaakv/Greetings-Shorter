@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.GreetingSorter" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFF57C00</item>
+        <item name="android:windowBackground">#FFFFFBF5</item>
+    </style>
+</resources>
